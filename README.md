@@ -1,6 +1,6 @@
 # Chengxu Jiang
 
-Software Engineering Student | Backend & Systems Focus  
+Computer science Student | Backend & Systems Focus  
 Liverpool, United Kingdom  
 📧 wendy.chengxu@gmail.com  
 
@@ -62,9 +62,9 @@ NumPy · OpenCV · scikit-learn
 - Improved operational efficiency through automation  
 
 **Research Assistant – AI Medical Imaging**
-- Processed large-scale CT datasets  
-- Built scripts for reproducible data workflows  
-
+- Developed Python scripts to preprocess and organize large-scale CT image datasets  
+- Designed structured data pipelines to ensure consistent and reproducible data processing  
+- Improved data traceability and reduced manual handling in research workflows
 ---
 
 ## 📌 Interests
