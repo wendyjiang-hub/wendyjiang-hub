@@ -5,8 +5,6 @@ Liverpool, United Kingdom
 
 📧 wendy.chengxu@gmail.com  
 
----
-
 ## 👨‍💻 About Me
 
 Computer Science student at the **University of Liverpool** with strong interests in **backend engineering, scalable systems, and application architecture**.
@@ -14,8 +12,6 @@ Computer Science student at the **University of Liverpool** with strong interest
 Experienced in building **full-stack applications, real-time multiplayer systems, and data automation tools**, with a focus on clean architecture, maintainable code, and API-driven development.
 
 Currently seeking **Software Engineering Internships (2026)** in backend or systems-oriented roles.
-
----
 
 ## 🛠 Tech Stack
 
@@ -34,7 +30,6 @@ Object-Oriented Programming · Modular Architecture · Git · Version Control ·
 ### Data & ML Exposure
 NumPy · OpenCV · scikit-learn · Data Processing Pipelines
 
----
 
 ## 🚀 Selected Projects
 
@@ -48,7 +43,6 @@ NumPy · OpenCV · scikit-learn · Data Processing Pipelines
 
 Live Demo: https://cinescope-movie-app.onrender.com
 
----
 
 ### 🎮 Multiplayer Real-Time Game System  
 **Unity · C# · Photon Networking**
@@ -57,7 +51,6 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Implemented duel logic, scoring systems, and shared game-state updates  
 - Refactored networking logic to reduce desynchronization issues and improve gameplay stability  
 
----
 
 ### ⏱ Pomodoro Timer Web Application  
 **Node.js · MySQL · JavaScript**
@@ -66,7 +59,6 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Designed relational database schema for task tracking and user sessions  
 - Implemented backend APIs and modular server logic for scalable feature expansion  
 
----
 
 ### 📊 Financial Data Automation Tool  
 **Python · SQL · LLM Integration**
@@ -75,7 +67,6 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Integrated SQL database queries to improve retrieval efficiency  
 - Applied LLM-based classification to categorize financial text data automatically  
 
----
 
 ## 💼 Experience
 
@@ -86,7 +77,6 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Integrated Python automation scripts with SQL-based databases  
 - Reduced manual data processing time through workflow automation  
 
----
 
 ### Research Assistant — AI Medical Imaging  
 **Chongqing Emergency Center**
@@ -95,7 +85,6 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Designed reproducible data pipelines for medical imaging research  
 - Improved data traceability and reduced manual handling in research workflows  
 
----
 
 ## 📌 Technical Interests
 
@@ -105,6 +94,8 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Performance Optimisation  
 - Real-Time Systems  
 
----
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendyjiang-hub&show_icons=true)
 ⭐ Open to **Software Engineering Internship opportunities (2026)** and collaborative technical projects.
