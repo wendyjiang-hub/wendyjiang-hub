@@ -1,79 +1,110 @@
 # Chengxu Jiang
 
-Computer science Student | Backend & Systems Focus  
+Computer Science Student | Backend & Systems Engineering  
 Liverpool, United Kingdom  
+
 📧 wendy.chengxu@gmail.com  
 
 ---
 
 ## 👨‍💻 About Me
 
-Computer Science student at the University of Liverpool with a strong interest in software engineering, backend systems, and scalable application design.  
+Computer Science student at the **University of Liverpool** with strong interests in **backend engineering, scalable systems, and application architecture**.
 
-Experienced in building full-stack applications, automation tools, and real-time systems with a focus on clean architecture and maintainable code.
+Experienced in building **full-stack applications, real-time multiplayer systems, and data automation tools**, with a focus on clean architecture, maintainable code, and API-driven development.
 
-Currently seeking **Software Engineering Internships (2026)**.
+Currently seeking **Software Engineering Internships (2026)** in backend or systems-oriented roles.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-Java · Python · C++ · C · JavaScript  
+### Languages
+Python · Java · C++ · C · JavaScript · C#
 
-**Backend & Data:**  
-Node.js · MySQL · SQL · REST APIs  
+### Backend & Web
+Flask · Node.js · REST APIs · MySQL · SQL · API Integration
 
-**Game / Real-time Systems:**  
-Unity · C# · Multiplayer state synchronization  
+### Systems & Game Development
+Unity · C# · Multiplayer Synchronization · Client-State Management
 
-**Software Engineering:**  
-OOP · Modular Design · JUnit · Ant · Git · Version Control · SDLC  
+### Software Engineering
+Object-Oriented Programming · Modular Architecture · Git · Version Control · SDLC · Testing (JUnit)
 
-**Data & ML Exposure:**  
-NumPy · OpenCV · scikit-learn  
+### Data & ML Exposure
+NumPy · OpenCV · scikit-learn · Data Processing Pipelines
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🔹 Multiplayer Real-Time System (Unity, C#)
-- Designed a real-time multiplayer architecture focusing on shared state consistency  
-- Implemented synchronized gameplay logic across multiple clients  
-- Refactored networking logic to improve stability and reduce state conflicts  
+### 🎬 CineScope — Movie Discovery Web Application  
+**Python · Flask · TMDB API · Google Maps API**
 
-### 🔹 Pomodoro Timer Web App (Node.js, MySQL)
-- Built full-stack web application with persistent user/session management  
-- Designed relational database schema and backend logic  
-- Delivered project from requirement analysis to deployment  
+- Built a full-stack movie discovery platform integrating external APIs for real-time data retrieval  
+- Implemented movie browsing, search, and detailed film pages with trailer integration  
+- Developed location-based cinema discovery using **Google Places API** to find nearby theatres by postcode  
+- Deployed production-ready web service with environment-based configuration and API security  
 
-### 🔹 Financial Data Automation Tool (Python, SQL)
-- Replaced manual Excel-based lookup with automated SQL-backed system  
-- Improved transaction retrieval efficiency  
-- Applied LLM-based classification for financial text processing  
+Live Demo: https://cinescope-movie-app.onrender.com
 
 ---
 
-## 💼 Experience Highlights
+### 🎮 Multiplayer Real-Time Game System  
+**Unity · C# · Photon Networking**
 
-**Software Engineering Intern – Southwest Securities**
-- Built internal transaction management tool  
-- Integrated Python with SQL databases  
-- Improved operational efficiency through automation  
+- Designed multiplayer architecture focusing on **state synchronization across networked clients**  
+- Implemented duel logic, scoring systems, and shared game-state updates  
+- Refactored networking logic to reduce desynchronization issues and improve gameplay stability  
 
-**Research Assistant – AI Medical Imaging**
-- Developed Python scripts to preprocess and organize large-scale CT image datasets  
-- Designed structured data pipelines to ensure consistent and reproducible data processing  
-- Improved data traceability and reduced manual handling in research workflows
 ---
 
-## 📌 Interests
+### ⏱ Pomodoro Timer Web Application  
+**Node.js · MySQL · JavaScript**
+
+- Developed full-stack productivity application with session persistence  
+- Designed relational database schema for task tracking and user sessions  
+- Implemented backend APIs and modular server logic for scalable feature expansion  
+
+---
+
+### 📊 Financial Data Automation Tool  
+**Python · SQL · LLM Integration**
+
+- Automated financial transaction analysis previously performed manually in Excel  
+- Integrated SQL database queries to improve retrieval efficiency  
+- Applied LLM-based classification to categorize financial text data automatically  
+
+---
+
+## 💼 Experience
+
+### Software Engineering Intern  
+**Southwest Securities**
+
+- Developed internal transaction management tools for financial operations  
+- Integrated Python automation scripts with SQL-based databases  
+- Reduced manual data processing time through workflow automation  
+
+---
+
+### Research Assistant — AI Medical Imaging  
+**Chongqing Emergency Center**
+
+- Built Python scripts to preprocess and organize large-scale CT image datasets  
+- Designed reproducible data pipelines for medical imaging research  
+- Improved data traceability and reduced manual handling in research workflows  
+
+---
+
+## 📌 Technical Interests
 
 - Backend Engineering  
 - Distributed Systems  
 - System Architecture  
-- Performance Optimization  
+- Performance Optimisation  
+- Real-Time Systems  
 
 ---
 
-⭐ Open to collaboration and internship opportunities.
+⭐ Open to **Software Engineering Internship opportunities (2026)** and collaborative technical projects.
