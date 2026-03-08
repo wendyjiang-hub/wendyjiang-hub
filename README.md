@@ -94,8 +94,4 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Performance Optimisation  
 - Real-Time Systems  
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendyjiang-hub&show_icons=true)
 ⭐ Open to **Software Engineering Internship opportunities (2026)** and collaborative technical projects.
