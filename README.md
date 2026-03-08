@@ -13,23 +13,6 @@ Experienced in building **full-stack applications, real-time multiplayer systems
 
 Currently seeking **Software Engineering Internships (2026)** in backend or systems-oriented roles.
 
-## 🛠 Tech Stack
-
-### Languages
-Python · Java · C++ · C · JavaScript · C#
-
-### Backend & Web
-Flask · Node.js · REST APIs · MySQL · SQL · API Integration
-
-### Systems & Game Development
-Unity · C# · Multiplayer Synchronization · Client-State Management
-
-### Software Engineering
-Object-Oriented Programming · Modular Architecture · Git · Version Control · SDLC · Testing (JUnit)
-
-### Data & ML Exposure
-NumPy · OpenCV · scikit-learn · Data Processing Pipelines
-
 
 ## 🚀 Selected Projects
 
@@ -85,6 +68,22 @@ Live Demo: https://cinescope-movie-app.onrender.com
 - Designed reproducible data pipelines for medical imaging research  
 - Improved data traceability and reduced manual handling in research workflows  
 
+## 🛠 Tech Stack
+
+### Languages
+Python · Java · C++ · C · JavaScript · C#
+
+### Backend & Web
+Flask · Node.js · REST APIs · MySQL · SQL · API Integration
+
+### Systems & Game Development
+Unity · C# · Multiplayer Synchronization · Client-State Management
+
+### Software Engineering
+Object-Oriented Programming · Modular Architecture · Git · Version Control · SDLC · Testing (JUnit)
+
+### Data & ML Exposure
+NumPy · OpenCV · scikit-learn · Data Processing Pipelines
 
 ## 📌 Technical Interests
 
